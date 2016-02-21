@@ -32,3 +32,6 @@ Systemprintlout;1001010101010010)
 )system.set.an."Button".named."Create an random plant"set.it.to.category."create Plants"
 }
      {
+)system.set.an."Button".named."Create an House or other Things"set.it.to.category."Create Generators"
+)system.set.an."Button".named."Create some NPCs for The Houses or so...."set.it.to.category."Create Generators"
+System:10101001010)
